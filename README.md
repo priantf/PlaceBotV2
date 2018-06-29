@@ -1,6 +1,6 @@
 # PlaceBotV2
 
-Bot desenvolvido em Python para pesquisa por instituições de ensino e culturais próximas do usuário
+Bot desenvolvido em Python para pesquisa por instituições de ensino e culturais próximas (Raio de 30Km estabelecido no código que pode ser facilmente alterado) do usuário
 
 Foi feito utilizando a API do Foursquare.
 
