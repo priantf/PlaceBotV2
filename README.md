@@ -7,6 +7,8 @@ Foi feito utilizando a API do Foursquare.
 O objetivo do Bot é didatico. 
 
 # A conversa se inicia com um /start e, em seguida, o Bot perguntará qual tipo de instituição o usuário está procurando.
+
+<script src="emmet.min.js">
 def btnStart():
     list_buttons = [
         [
@@ -15,7 +17,9 @@ def btnStart():
     ]
     reply_markup = ReplyKeyboardMarkup(keyboard = list_buttons, resize_keyboard = True, one_time_keyboard = True)
 
-    return reply_markup
+    return reply_markup</script>
+
+   
 <img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img1.jpeg" width="300px">
 
 # Após escolher o local, o Bot irá pedir a localização.
