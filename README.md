@@ -6,7 +6,7 @@ Foi feito utilizando a API do Foursquare.
 
 O objetivo do Bot é didatico. 
 
-# A conversa se inicia com um /start e, em seguida, o Bot perguntará qual tipo de lugar que o usuário está procurando.
+# A conversa se inicia com um /start e, em seguida, o Bot perguntará qual tipo de instituição o usuário está procurando.
 <img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img1.jpeg" width="300px">
 
 # Após escolher o local, o Bot irá pedir a localização.
