@@ -8,25 +8,20 @@ O objetivo do Bot é didatico.
 
 # A conversa se inicia com um /start e, em seguida, o Bot perguntará qual tipo de instituição o usuário está procurando.
 
-<script>
-def btnStart():
-    list_buttons = [
-        [
-            KeyboardButton(text = "Começar")
-        ]
-    ]
-    reply_markup = ReplyKeyboardMarkup(keyboard = list_buttons, resize_keyboard = True, one_time_keyboard = True)
-
-    return reply_markup
-</script>
-   
+<img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img5.jpeg" width="100px">
 <img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img1.jpeg" width="300px">
 
 # Após escolher o local, o Bot irá pedir a localização.
+
+<img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img6.jpeg" width="100px">
 <img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img2.jpeg" width="300px">
 
 # É enviado a localização através de um botão e o Bot retornará as instituições mais próximas. E fornecerá botões para a escolha de uma instituição específica.
+
+<img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img7.jpeg" width="100px">
 <img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img3.jpeg" width="300px">
 
 # Após o usuário escolher a instituição de destino, o Bot retornará a rota como um link do Google Maps e poderá ter o processo reiniciado.
+
+<img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img8.jpeg" width="100px">
 <img src="https://github.com/LuizPrianti/PlaceBotV2/blob/master/Imagens/img4.jpeg" width="300px">
