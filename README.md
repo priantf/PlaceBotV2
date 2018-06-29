@@ -2,7 +2,8 @@
 
 Bot desenvolvido em Python para pesquisa por instituições de ensino e culturais próximas (Raio de 30Km estabelecido no código que pode ser facilmente alterado) do usuário
 
-Foi feito utilizando a API do Foursquare.
+- Places API Foursquare para recomendações de locais
+- API Telgram 
 
 O objetivo do Bot é didatico. 
 
