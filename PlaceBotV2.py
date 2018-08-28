@@ -7,7 +7,7 @@ import json
 import webbrowser
 from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton
 
-bot = telepot.Bot("488891276:AAEHJhT5HRoV1znvYnHjCp4pb8S2QSvOmKo")
+bot = telepot.Bot("<TOKEN>")
 categoria = None
 
 def btnStart():
